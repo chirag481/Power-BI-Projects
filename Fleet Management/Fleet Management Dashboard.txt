@@ -1,0 +1,12 @@
+This report provide insights of all important aspects of fleet management by which they improve and optimize their business process resulting in increased profitability, revenue and enhanced customer satisfaction 
+
+
+
+Some key KPI’s include:
+·        Total drive :189
+·        Total distance travelled: 722k Km
+·        Total amount of fuel consumed:  $550k
+·        Total  volume of fuel consumed: 166k Liters
+·        Total fix cost: $2M
+·        Total orders deliver: 92060
+·        Total revenue: $484.53M
