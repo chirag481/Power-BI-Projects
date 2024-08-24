@@ -1,7 +1,6 @@
-This report provide insights of all important aspects of fleet management by which 
-they improve and optimize their business process resulting in increased profitability,
- revenue and enhanced customer satisfaction 
-
+This Dashboard provides detail analysis by drivers, vehicle types, fuel consumption and cost,
+freight and maintenance costs ,state and city wise revenue and total orders and its weights.
+By which fleet management improve and optimize their business processes resulting in increased profitability, revenue and enhanced customer satisfaction 
 
 
 Some key KPI’s include:
