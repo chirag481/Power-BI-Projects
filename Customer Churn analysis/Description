@@ -1,16 +1,28 @@
-#key matrices
+#Key matrices
 Total customers, Total customer lost, churn rate 
 
 #Objective 
-analyzing churn by gender, country, availability of credit card, credit score group, age group ,number of products, total balance 
+analyzing churn by gender, country, availability of credit card, credit score group, age group ,
+number of products, total balance 
 
-#Result
+#Data Cleaning
+Used power query to remove unwanted column e.g Estimated salary, checking and correcting data 
+types of columns,transforming columns e.g credit card(Owned for 1,Not Owned for 0),
+Churn(Churned for 1,Not Churned for 0),Activity status(Active for 1,Inactive for 0) 
+for better readability,grouping columns e.g Balance,age,credit score for better understanding and
+ease to use in visualization as grouping much for convienent than individual data points
+
+#Insights
 Males (55%) have higher churn rate as compared to female(45%)
 
 France have almost 2 times churned customers than Spain and Germany
 
 Customers(70%) with credit card churned most 
 
-Customers having credit score less than 400 have 100% churn rate, Churn rate decreased to about 20% as credit score is more than 400 
+Customers having credit score less than 400 have 100% churn rate, Churn rate decreased to about 
+20% as credit score is more than 400 
 
-customer with more than two products churned very less (3%)
+Customer with more than two products churned very less (3%)
+
+
+
