@@ -1,0 +1,16 @@
+#key matrices
+Total customers, Total customer lost, churn rate 
+
+#Objective 
+analyzing churn by gender, country, availability of credit card, credit score group, age group ,number of products, total balance 
+
+#Result
+Males (55%) have higher churn rate as compared to female(45%)
+
+France have almost 2 times churned customers than Spain and Germany
+
+Customers(70%) with credit card churned most 
+
+Customers having credit score less than 400 have 100% churn rate, Churn rate decreased to about 20% as credit score is more than 400 
+
+customer with more than two products churned very less (3%)
